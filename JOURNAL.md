@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Flappy bird ,esp32 console
+> 3.5mm jack to type C adaptor
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
