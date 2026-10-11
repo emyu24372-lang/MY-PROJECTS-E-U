@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [PCM2912APJT](https://www.digipart.com/part/PCM2912A) | Its "the brain" | 1 | $2.05 | $2.05 | [Allelco Limited](https://www.digipart.com/part/PCM2912A) |
 | **Parts subtotal** | — | — | — | **$2.05** | — |
-| **Tax & shipping** | — | — | — | **$20.00** | — |
-| **Total** | — | — | — | **$22.05** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$2.05** | — |
 
-$42.95 left of the tier's funding.
+$62.95 left of the tier's funding.
