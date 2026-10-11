@@ -17,10 +17,9 @@
 | [condensator](https://elektronicavoorjou.nl/product/condensator-3-3uf-50v/) | For the stable performance | 1 | $0.56 | $0.56 | [Elektronica voor jou](https://elektronicavoorjou.nl/product/condensator-3-3uf-50v/) |
 | [Ceramic condensator](https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594) | For the stable performance | 2 | $0.14 | $0.28 | [DigiKey](https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594) |
 | [Ceramic condensator](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A105KB8NNNC/3887518) | For the stable performance | 1 | $0.14 | $0.14 | [DigiKey](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A105KB8NNNC/3887518) |
-| [Resistor SMD](https://www.aliexpress.com/item/32751662208.html) | For resistance | 1 | $1.20 | $1.20 | [Aliexpres](https://www.aliexpress.com/item/32751662208.html) |
 | [Resistors](https://www.aliexpress.com/item/1005010779044079.html?spm=a2g0o.productlist.main.1.68753b82bx57yX&algo_pvid=44d17766-481b-4cc7-a785-2ee9d94a4f37&pdp_ext_f=%7B%22order%22%3A%22224%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010779044079%7C_p_origin_prod%3A) | resisr curent | 1 | $7.54 | $7.54 | [Aliexpress](https://www.aliexpress.com/item/1005010779044079.html?spm=a2g0o.productlist.main.1.68753b82bx57yX&algo_pvid=44d17766-481b-4cc7-a785-2ee9d94a4f37&pdp_ext_f=%7B%22order%22%3A%22224%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010779044079%7C_p_origin_prod%3A) |
-| **Parts subtotal** | — | — | — | **$13.55** | — |
+| **Parts subtotal** | — | — | — | **$12.35** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$13.55** | — |
+| **Total** | — | — | — | **$12.35** | — |
 
-$51.45 left of the tier's funding.
+$52.65 left of the tier's funding.
