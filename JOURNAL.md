@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T17:47:04.511Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuuwnois0b8s01smhnjx57bi). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > 3.5mm jack to type C adaptor
 
